@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Simran",
+        "email": "simran@example.com",
+        "password": "simran123",
+        "avatar":  "/images/users/simran.jpg",
+        "role": "user"
+    },
+    {
+        "name": "Ronaldo",
+        "email": "ronaldo@example.com",
+        "password": "ronaldo456",
+        "avatar":  "/images/users/ronaldo.jpg",
+        "role": "admin"
+    },
+    {
+        "name": "Merlyn",
+        "email": "merlyn@example.com",
+        "password": "merlyn123",
+        "avatar":  "/images/users/merlyn.jpg",
+        "role": "admin"
+    },
+    
+    {
+        "name": "Vinci",
+        "email": "vinci@example.com",
+        "password": "vinci456",
+        "avatar":  "/images/users/vinci.jpg",
+        "role": "user"
+    }
+
+   
+]

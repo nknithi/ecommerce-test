@@ -1,0 +1,309 @@
+[
+    {
+        "name": "Pink Floral Printed Dress",
+        "price": 200,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, officiis possimus.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/dress1.png"
+            }
+        ],
+        "category": "Dress",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+
+    {
+        "name": "Off-Shoulder Maxi Dress",
+        "price": 350,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, officiis possimus.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/dress2.png"
+            }
+        ],
+        "category": "Dress",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+
+    {
+        "name": "Floral Printed A-Line Dress",
+        "price": 450,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, officiis possimus.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/dress3.png"
+            }
+        ],
+        "category": "Dress",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+
+    {
+        "name": "Leopard Printed A-Line Dress",
+        "price": 550,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, officiis possimus.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/dress4.png"
+            }
+        ],
+        "category": "Dress",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+
+    {
+        "name": "Printed Puff Sleeve Dress",
+        "price": 250,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, officiis possimus.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/dress5.png"
+            }
+        ],
+        "category": "Dress",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+
+    {
+        "name": "Smocked Chiffon Flared Dress",
+        "price": 350,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, officiis possimus.",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/products/dress6.png"
+            }
+        ],
+        "category": "Dress",
+        "seller": "Amazon",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+
+
+    {
+        "name": "Printed Flared Maxi skirt",
+        "price": 650,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, officiis possimus.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/skirt1.png"
+            }
+        ],
+        "category": "Skirt",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+
+    {
+        "name": "Printed Flared Maxi Skirt",
+        "price": 450,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, officiis possimus.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/skirt2.png"
+            }
+        ],
+        "category": "Skirt",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+
+    {
+        "name": "Floral Printed Frill Skirt",
+        "price": 350,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, officiis possimus.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/skirt3.png"
+            }
+        ],
+        "category": "Skirt",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+
+    {
+        "name": "Printed Cotton Maxi Skirt",
+        "price": 650,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, officiis possimus.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/skirt4.png"
+            }
+        ],
+        "category": "Skirt",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+
+    {
+        "name": "Abstract Printed Maxi Skirt",
+        "price": 450,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, officiis possimus.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/skirt5.png"
+            }
+        ],
+        "category": "Skirt",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+
+    {
+        "name": "Printed Cotton Maxi Skirt",
+        "price": 350,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, officiis possimus.",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/products/skirt6.png"
+            }
+        ],
+        "category": "Skirt",
+        "seller": "Flipkart",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+
+
+    {
+        "name": "Black Joggers Trousers",
+        "price": 700,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, officiis possimus.",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/pant1.png"
+            }
+        ],
+        "category": "Trouser",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+
+    {
+        "name": "Relaxed Straight Trousers",
+        "price": 500,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, officiis possimus.",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/pant2.png"
+            }
+        ],
+        "category": "Trouser",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+
+    {
+        "name": "Olive Green Cargos Trousers",
+        "price": 250,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, officiis possimus.",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/pant3.png"
+            }
+        ],
+        "category": "Trouser",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+
+    {
+        "name": "Straight Fit Culottes Trousers",
+        "price": 560,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, officiis possimus.",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/pant4.png"
+            }
+        ],
+        "category": "Trouser",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+
+    {
+        "name": "Slim Fit Cigarette Trousers",
+        "price": 450,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, officiis possimus.",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/pant5.png"
+            }
+        ],
+        "category": "Trouser",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+
+    {
+        "name": "Slim Fit Cigarette Trousers",
+        "price": 350,
+        "description": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Beatae, officiis possimus.",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/products/pant6.png"
+            }
+        ],
+        "category": "Trouser",
+        "seller": "Ebay",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    }
+]
