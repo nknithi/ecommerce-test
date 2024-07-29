@@ -4,7 +4,9 @@
   "description": "ecommerce using MERN stack",
   "main": "server.js",
   "scripts": {
-    "start": "nodemon backend/server.js",
+    
+      "test": "echo \"Error: no test specified\" && exit 1",
+    
    
     "productSeeder": "node backend/utils/productSeeder.js",
     "userSeeder": "node backend/utils/userSeeder.js"
