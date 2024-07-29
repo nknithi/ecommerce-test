@@ -1,0 +1,54 @@
+/* Styling for brand name */
+.brand-name {
+  font-family: "Dancing Script";
+  font-weight: bolder;
+  text-shadow: 1px 1px rgba(220, 53, 69, 0.2);
+}
+
+/* Styling for main menu items on hover and active states */
+.main-menu-item:hover {
+  background-color: #dc3545;
+}
+
+.main-menu-item:active {
+  background-color: #dc3545;
+}
+
+
+
+
+/* Styling for cart link on hover and active states */
+.cart:hover {
+  color: #6c757d;
+}
+
+.cart:active {
+  color: #6c757d;
+}
+
+.cart {
+  font-size: large;
+  color: #343a40;
+
+}
+
+
+/* Styling for search button */
+#search-button {
+  background-color: #dc3545;
+  color: whitesmoke;
+}
+
+#search-button:hover {
+
+  color: black;
+  background-color: #ffc107;
+}
+
+
+
+/* Dropdown menu styling on hover */
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+}

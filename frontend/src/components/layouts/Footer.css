@@ -1,0 +1,19 @@
+/* Styling for footer menu items on hover and active states */
+
+/* Change background color on hover */
+.footer-menu-item:hover {
+  background-color: rgb(214, 214, 214);
+
+}
+
+
+.footer-menu-item:active {
+  /* Change background color on active (click) state */
+  background-color: rgb(214, 214, 214);
+}
+
+footer {
+  /* Align footer to the bottom of its container */
+  margin-top: auto;
+
+}
